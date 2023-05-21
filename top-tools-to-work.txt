@@ -1,1 +1,48 @@
+My top tools to work
+
+Notepad
+https://github.com/alexkdeveloper/notepad
+
+Lorem ipsum
+https://gitlab.gnome.org/World/design/lorem/
+
+Terminator
+https://github.com/gnome-terminator/terminator
+
+System Monitoring Center
+https://github.com/hakandundar34coding/system-monitoring-center
+
+Krita
+https://krita.org/
+
+Python
+Thonny - IDE for Python
+https://thonny.org/
+
+Spyder
+
+Atom
+
+Visual Studio Code
+
+Bluefish Editor
+
+Geany
+
+Kate
+
+OpenResizer
+http://www.openresizer.org/
+
+Conversor de imagem
+https://gitlab.com/adhami3310/Converter
+
+KeePassXC
+https://keepassxc.org/
+
+Persepolis
+https://persepolisdm.github.io/
+
+OpenShot
+https://www.openshot.org/
 
