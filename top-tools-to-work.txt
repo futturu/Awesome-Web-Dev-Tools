@@ -48,3 +48,10 @@ https://www.openshot.org/
 
 Session
 
+https://www.darktable.org/
+
+
+
+More
+https://github.com/luong-komorebi/Awesome-Linux-Software
+https://github.com/inputsh/awesome-linux
