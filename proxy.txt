@@ -1,0 +1,27 @@
+TinyProxy
+O TinyProxy é uma ferramenta leve para configurar proxies HTTP/HTTPS. Ele não suporta SSL Bump, mas pode ser usado como um proxy básico.
+
+Passo 1: Instale o TinyProxy
+
+No Ubuntu/Debian:
+
+sudo apt update
+sudo apt install tinyproxy -y
+
+Passo 2: Configure o TinyProxy
+
+Edite o arquivo de configuração:
+
+sudo nano /etc/tinyproxy/tinyproxy.conf
+
+Altere as seguintes linhas:
+
+Port 8888
+Allow 0.0.0.0/0
+
+Reinicie o serviço:
+
+sudo systemctl restart tinyproxy
+
+Passo 3: Teste o Proxy
+Configure o navegador ou cliente para usar o proxy na porta 8888.
